@@ -1,0 +1,2 @@
+# zmipurpodspro_firmware
+紫米耳机zmipurpodspro固件，紫米耳机固件
